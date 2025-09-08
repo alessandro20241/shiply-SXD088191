@@ -1,0 +1,43 @@
+{
+  "SG9391713": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Adrian Kraus, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Seth van der Dussen, Kapellaan 11, 1851 PE Heiloo, Niederlande",
+    "price": "12.900 €",
+    "description": "Hersteller: DUCATI<br>Typ: Panigale V2 <br>Fahrgestelnummer: ZDMHAATW0NB009238<br>Erstzulassung: 11/2022<br>KM laut Vorbesitzer: 15.931 km <br>Leistung: 100 kW (136 PS) <br>Hubraum: 1254 cm³<br>Farbe: Beige <br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Seth van der Dussen<br>Kapellaan 11<br>1851 PE Heiloo<br>Niederlande<br>Telefon: +31 626064495",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "17-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Kapellaan 11",
+      "postal_code": "1851 PE",
+      "city": "Heiloo",
+      "country": "Niederlande"
+    }
+  }
+}
